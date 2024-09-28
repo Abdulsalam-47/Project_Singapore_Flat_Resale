@@ -1,4 +1,4 @@
-# Project_Songapore_Flat_Resale
+# Project_Singapore_Flat_Resale
 
 Singapore Resale Flat Price Prediction Using Regression Model
 
